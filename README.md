@@ -10,7 +10,7 @@ var settings = {
   type: "POST",
   url: 'page.com/myEndPoint4Upload',
   data: { file: hugeData },
-  timeout: 120000, // 2 minuty timeout
+  timeout: 120000, // 2 minutes timeout
   onSuccess: function (data) {
     console.log("some success information and do another logic with data returned from server");
   },
