@@ -1,7 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # ajax-timeout
-Simple ajax library which will handle ajax call if the internet is slow or data are huge. Just prepare api call, set timeoute value and enjoy :)
+Simple ajax library which will handle ajax call if the internet is slow or data are huge. Just prepare api call, set timeout value and enjoy :)
 
 ## Settings
 | Setting       | function        |
