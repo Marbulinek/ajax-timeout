@@ -15,7 +15,7 @@ Simple ajax library which will handle ajax call if the internet is slow or data 
 | onError       | callback function |
 
 ## Example
-// example of api call with slow Internet 
+Example of api call with slow Internet.
 ```javascript
 var settings = {
   type: "POST",
