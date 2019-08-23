@@ -77,7 +77,7 @@
                 xhr.upload.onloadend = function () {
                     clearTimeout(timer);
                 };
-                xhr.uploadend = function () {
+                xhr.onloadend = function () {
                     clearTimeout(timer);
                 };
                 return xhr;
